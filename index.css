@@ -1,0 +1,75 @@
+body {
+  background-color: purple;
+}
+h1{
+  background-color: indigo;
+  height:40px;
+  text-align: center;
+}
+.div1
+{
+   margin: auto;
+   height: 400px;
+   margin-top: 80px;
+   width: 350px;
+   background-color: lightgoldenrodyellow;
+   border-radius: 10px;
+
+}
+.btn1
+{
+   height: 35px;
+   width:55px;
+   border-radius: 55px;
+  background-color: rgb(226, 117, 226);
+
+}.div3
+{
+  height:30px;
+  width:300px;
+  margin-top: 20px;
+  justify-content: left;
+
+}
+i{
+ font-size:24px;
+}
+.btn2
+{
+  height: 25px;
+  width:28px;
+  border-style: none;
+  background-color: salmon;
+  border-radius: 100px;
+  display: inline;
+
+}
+
+li{list-style: none;
+  height:25px;
+ display: inline;
+  float :right;
+  text-align: left;
+  width:200px;
+  font-size:large;
+  margin-right: 50px;
+ 
+
+ 
+}
+.btn1:hover
+{
+  background-color: rgb(5, 105, 5);
+}
+
+input{
+   box-shadow: 2px 2px purple;
+   height:35px;
+   border: 0px;
+   width :180px; margin-right:20px;
+   text-align: center;
+   font-weight: bold;
+   margin-left:25px;
+   margin-top: 25px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
